@@ -1,2 +1,2 @@
 # my-first-git-project
-Demo project
+Demo project.
